@@ -1,6 +1,6 @@
 # Employee Management Console App
 
-<img width="469" height="456" alt="image" src="https://github.com/user-attachments/assets/e079079f-733f-4477-8b79-c99eb2a04cbe" />
+<img width="469" height="456" alt="image" src="https://github.com/user-attachments/assets/e079079f-733f-4477-8b79-c99eb2a04cbe" /></br>
 <img width="464" height="45" alt="image" src="https://github.com/user-attachments/assets/68330833-4e4d-4d82-89ee-f4676e847738" /> </br>
 <img width="351" height="181" alt="image" src="https://github.com/user-attachments/assets/df4dd94e-9643-4c65-9915-35f84f933437" />
 <img width="301" height="171" alt="image" src="https://github.com/user-attachments/assets/a3d4723e-823c-45fc-829d-ba2bff45a3f4" />
